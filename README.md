@@ -10,7 +10,7 @@ This repository demonstrates the use of Generative Adversarial Networks (GANs) t
 ## File Structure
 - `gan_training.py`: Script for GAN training and synthetic image generation.
 - `dataset_loader.py`: Dataset preparation and transformations for malignant images.
-- `notebooks/synthetic_data_demo.ipynb`: Jupyter Notebook for running experiments and generating synthetic data.
+- `notebooks/gan_tutorial.ipynb`: Jupyter Notebook for running experiments and generating synthetic data.
 - `data/malignant_images/`: Folder containing the original dataset of malignant images.
 - `data/generated_images/`: Folder containing the generated synthetic images.
 
